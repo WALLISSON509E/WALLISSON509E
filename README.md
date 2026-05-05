@@ -1,5 +1,14 @@
 ## Hi there 👋
-Eu sou o Wallisson Quirino, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
+
+Sou o Wallisson Quirino, estudante de Análise e Desenvolvimento de Sistemas, focado em me tornar Desenvolvedor Front-end.
+
+Atualmente desenvolvo projetos práticos utilizando:
+
+- HTML
+- CSS
+- JavaScript
+
+Estou em busca da minha primeira oportunidade na área.
 <br>
 <br>
 
